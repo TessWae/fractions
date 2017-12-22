@@ -1,10 +1,7 @@
 /*
 
  Tess Waerneman
- CS2A
  11/25/17
- Dave Harden
- a9_1.cpp
 
  This program will be centered around the class named Fraction.
  It will use the set function to assign the values of two fractions.
